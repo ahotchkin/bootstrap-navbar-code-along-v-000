@@ -5,3 +5,5 @@
 <p><a href="https://www.youtube.com/watch?v=bWVUo67pShU">Bootstrap Navbar Code-Along</a>.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-navbar-code-along' title='Bootstrap Navbar Code-Along'>Bootstrap Navbar Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+<!-- Had to pull files from Layouts Grids Codealong. Only files available in this repo were CONTRIBUTING.md and README.md. -->
